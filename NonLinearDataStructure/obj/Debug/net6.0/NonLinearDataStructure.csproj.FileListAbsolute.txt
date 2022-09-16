@@ -1,0 +1,15 @@
+C:\NonLinearData\NonLinearDataStructure\bin\Debug\net6.0\NonLinearDataStructure.exe
+C:\NonLinearData\NonLinearDataStructure\bin\Debug\net6.0\NonLinearDataStructure.deps.json
+C:\NonLinearData\NonLinearDataStructure\bin\Debug\net6.0\NonLinearDataStructure.runtimeconfig.json
+C:\NonLinearData\NonLinearDataStructure\bin\Debug\net6.0\NonLinearDataStructure.dll
+C:\NonLinearData\NonLinearDataStructure\bin\Debug\net6.0\NonLinearDataStructure.pdb
+C:\NonLinearData\NonLinearDataStructure\obj\Debug\net6.0\NonLinearDataStructure.csproj.AssemblyReference.cache
+C:\NonLinearData\NonLinearDataStructure\obj\Debug\net6.0\NonLinearDataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\NonLinearData\NonLinearDataStructure\obj\Debug\net6.0\NonLinearDataStructure.AssemblyInfoInputs.cache
+C:\NonLinearData\NonLinearDataStructure\obj\Debug\net6.0\NonLinearDataStructure.AssemblyInfo.cs
+C:\NonLinearData\NonLinearDataStructure\obj\Debug\net6.0\NonLinearDataStructure.csproj.CoreCompileInputs.cache
+C:\NonLinearData\NonLinearDataStructure\obj\Debug\net6.0\NonLinearDataStructure.dll
+C:\NonLinearData\NonLinearDataStructure\obj\Debug\net6.0\refint\NonLinearDataStructure.dll
+C:\NonLinearData\NonLinearDataStructure\obj\Debug\net6.0\NonLinearDataStructure.pdb
+C:\NonLinearData\NonLinearDataStructure\obj\Debug\net6.0\NonLinearDataStructure.genruntimeconfig.cache
+C:\NonLinearData\NonLinearDataStructure\obj\Debug\net6.0\ref\NonLinearDataStructure.dll
